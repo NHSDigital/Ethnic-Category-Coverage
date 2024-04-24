@@ -6,7 +6,8 @@ The 2011 Census published by the Office for National Statistics (ONS), is the go
 
 ## Publication 
 
-We publish ethnic category coverage management information (MI) on a quarterly basis to show how the coverage of ethnicity recording increases by combining the GDPPR and HES datasets, and to show the coverage and breakdown of recorded ethnic categories at CCG level.
+Previously this MI was published every fortnight adding a new xls file to the zip file to reflect the most recent GDPPR reporting period end date. Following a consultation period finishing in August 2022, the MI was published every quarter (January, April, July and October) in the same format as before. April 2024 is the last published update of this data and there are no plans for any future publications.
+
 The MI is published here: https://digital.nhs.uk/data-and-information/publications/statistical/mi-ethnic-category-coverage/current
 
 ## Installation
